@@ -76,4 +76,4 @@ def img():
         return "Where is the image?"
 
 if __name__ == "__main__":
-	app.run()
+	app.run(debug=True)
